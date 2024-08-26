@@ -1,2 +1,2 @@
-# react_bill_test
+# react_collection
 记账本案例
